@@ -1,4 +1,4 @@
-﻿# OpenArkCompiler
+# OpenArkCompiler
 
 ## 概述
 -----------------
@@ -48,3 +48,5 @@ OpenArkCompiler是来自华为方舟编译器的开源项目。
 - [LICENSE](license/LICENSE)
 - [开源软件声明](license/Third_Party_Open_Source_Software_Notice.md)
 
+## 附官方源码链接
+- [OpenArkCompiler](https://code.opensource.huaweicloud.com/HarmonyOS/OpenArkCompiler/home)
